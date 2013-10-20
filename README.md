@@ -1,4 +1,4 @@
-versioning-files
+file-versioning
 ================
 
 Short script for versioning full directories + subdirectories in linux, using git. Stores also file metadata (like fileowner, permissions, ...) and empty directories.
