@@ -10,7 +10,7 @@ Installation
 
 - Install git. Ubuntu: sudo apt-get install git
 - Install metastore. Ubuntu: sudo apt-get install metastore. If you don't use Ubuntu, look for packages that fit your system or build metastore from source
-- Copy the provided script files to your system
+- Copy the provided script files to your system and make them executable
 - Recommended: add the directory, where the scripts are located, to your PATH
 
 Usage
