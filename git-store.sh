@@ -28,5 +28,5 @@ fi
 metastore -s -f $META_FILE
 
 #### add all files to git ###
-git add .
+git add -A
 git commit -m "$COMMIT_MESSAGE"
